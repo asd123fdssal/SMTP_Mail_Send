@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_301">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/999. 개인/라이브러리/javax.mail-1.6.2.jar" sourcepath="D:/Workspace/lib/Maven/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/999. 개인/라이브러리/javax.mail-api-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/999. 개인/라이브러리/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

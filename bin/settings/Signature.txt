@@ -1,0 +1,12 @@
+<p>========================================================<br></p>
+<p style="text-align: left;"><img style="clear:none;float:none;" src="%LOGO_URL%"></p>
+<p>%COMPANY_NAME%<br></p>
+<p>%COMAPNY_ADDRESS%<br></p>
+<p>TEL    : %TEL%<br></p>
+<p>FAX    : %FAX%<br></p>
+<p>URL    : %COMPANY_URL%<br></p>
+<p><br></p>
+<p>%NAME%<br></p>
+<p>Mobile  : %MOBILE%<br></p>
+<p>E-mail  : %MAIL_ADDRESS%<br></p>
+<p>========================================================<br></p>
